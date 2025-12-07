@@ -27,5 +27,5 @@ All files use sample data for learning purposes.
 ---
 
 ## Author
-**Rutujashankpale**  
+**Rutuja Shankpale**  
 GitHub: https://github.com/rutujashankpale
